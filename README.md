@@ -1,8 +1,7 @@
 # Projeto final Bootcamp Inter
 
 Neste projeto foi criado um website E-commerce integrando um Backend em Node.js com um Frontend em React.
-
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/8aae41d8a54b3efe212f3262c04e33cb.gif"  border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+![Imagem](https://github.com/brunofvilela/e-commerce/blob/main/front-end/public/images/Webp.net-gifmaker.gif?raw=true)
 
 ## 🧪 Tecnologias
 
